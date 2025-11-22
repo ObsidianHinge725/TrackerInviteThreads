@@ -19,7 +19,7 @@ Contributions do not need to be fully detailed, they could be as simple as:
 
 | Tracker | Rank | Requirements | Verified Count | 
 | :---: | :---: | :---: | :---: | 
-| MAM | Power User | 2.0 or higher ratio, with 25 GB upload (including bought with bonus points), and 4+ weeks on site. | 1 |
+| MAM | Power User | 2.0 or higher ratio, with 1 TiB upload (including bought with bonus points), and 6+ months on site. | 1 |
 | BLU | BluExtermist | Upload '>=' 20TiB and account 3 months old. | 1 |
 | BLU | BluSeeder | Seed Size '>=' 5TiB and account 1 month old and seedtime average 30 days or better. | 1 |
 | OPS | Elite | 100+ GiB with a 1.05+ ratio. Member for at least 4 weeks. Uploaded 50+ torrents | 1 |
